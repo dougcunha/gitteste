@@ -1,0 +1,8 @@
+*.dcu
+*.local
+*.identcache
+*.skincfg
+*.csl
+src/__history/
+prj/__history/
+*.ini
